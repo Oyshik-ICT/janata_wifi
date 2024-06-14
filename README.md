@@ -4,7 +4,7 @@
 This challenge is provided by [Janata Wifi ](https://janatawifi.com/)
 
 
-CRUD operations are essential in software development.  So, in two days, I studied React JS to understand its key concepts and how it works. Using this knowledge, I created a CRUD application. The data was provided by Janata WiFi. A few days ago, I wanted to work on a project, and Janata WiFi suddenly gave me this challenge. I have learned a lot from this experience.Gaining more knowledge about Django and React JS, I want to build this project to be more user-friendly and efficient.
+CRUD operations are essential in software development. I am new to development and Django and had no knowledge of React JS. So, in two days, I studied React JS to understand its key concepts and how it works. Using this knowledge, I created a CRUD application. The data was provided by Janata WiFi. A few days ago, I wanted to work on a project, and Janata WiFi suddenly gave me this challenge. I have learned a lot from this experience.Gaining more knowledge about Django and React JS, I want to build this project to be more user-friendly and efficient.
 
 
 
